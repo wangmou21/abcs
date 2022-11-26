@@ -8,7 +8,7 @@ The corpus is composed of 47,182 AC and BC synchronized utterances from 100 spea
 approximately 25 minutes. The duration of each utterance varies from 1 to 5 seconds.
 
 The corpus was collected in an anechoic chamber, where the speakers wore the headset and read the text transcription. The anechoic chamber was built in accordance
-with the ISO 3745. The size of the anechoic chamber is 11.8×4.2×3.8 m3.
+with the ISO 3745. The size of the anechoic chamber is 11.8×4.2×3.8 m.
 
 ## Works
 
