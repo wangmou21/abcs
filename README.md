@@ -1,10 +1,18 @@
 # ABCS Corpus
 
-**ABCS** is an **A**ir- and **B**one-**C**onducted synchronized **S**peech corpus.
+**ABCS** is an **A**ir- and **B**one-**C**onducted synchronized **S**peech corpus. 
+
+## Description
+
+The corpus is composed of 47,182 AC and BC synchronized utterances from 100 speakers, which amounts to 42 hours of speech with each speaker contributing
+approximately 25 minutes. The duration of each utterance varies from 1 to 5 seconds.
+
+The corpus was collected in an anechoic chamber, where the speakers wore the headset and read the text transcription. The anechoic chamber was built in accordance
+with the ISO 3745. The size of the anechoic chamber is 11.8×4.2×3.8 m3.
 
 ## Works
 
-- Multi-modal Speech Recognition
+- [Multi-modal Speech Recognition](https://ieeexplore.ieee.org/document/9961873)
 - [Multi-modal Speech Enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0003682X22004327)
 
 ## Download Link
