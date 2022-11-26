@@ -14,6 +14,12 @@ Code: ounv
 
 Cite by:
 
-End-to-end Multi-modal Speech Recognition on An Air and Bone Conducted Speech Corpus
-
-IEEE Transactions on Audio, Speech and Language Processing
+@ARTICLE{9961873,
+  author={Wang, Mou and Chen, Junqi and Zhang, Xiao-Lei and Rahardja, Susanto},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={End-to-end Multi-modal Speech Recognition On An Air and Bone Conducted Speech Corpus}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TASLP.2022.3224305}}
